@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @menjaraz, Tech savvy! Accountant by education but fond of coding since graduating: #delphi #golang #dlang
+- 👋 Hi, I’m @menjaraz, Tech savvy! Accountant by education but fond of coding since graduating
+- #delphi #golang #dlang #mql5
 - I'm also an Hobbyist Beekeeper.
 
 <!---
