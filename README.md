@@ -1,4 +1,3 @@
-- 👋 Hi, I’m **@menjaraz**, Tech savvy! Accountant by education but _fond of coding_
 - #delphi #golang #dlang #mql5
 
 <!---
