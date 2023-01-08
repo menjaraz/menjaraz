@@ -1,4 +1,4 @@
-- #delphi #golang #dlang #mql5
+- #delphi #golang #dlang #typescript #mql5
 
 <!---
 menjaraz/menjaraz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
