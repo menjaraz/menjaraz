@@ -1,5 +1,8 @@
 - #dlang #golang #delphi #typescript #mql5
 
+<p align="center"><img src="http://stackexchange.com/users/flair/753457.png"></p>
+
+
 <p align="center"><img src="https://projecteuler.net/profile/menjanahary.png"></p>
 
 <!---
