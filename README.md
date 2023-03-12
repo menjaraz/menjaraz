@@ -1,4 +1,4 @@
-- #dlang #golang #delphi #typescript #mql5
+- #dlang #golang #delphi #typescript #mql5 #R
 
 <p align="center"><img src="http://stackexchange.com/users/flair/753457.png"></p>
 
