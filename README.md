@@ -1,5 +1,7 @@
 - #J #pari #dlang #golang #rustlang #delphi #typescript #mql
 
+[![Project Euler](https://projecteuler.net/profile/mavotroky.png)](https://projecteuler.net/)
+
 <!---p align="center"--->
   <img src="https://projecteuler.net/profile/mavotroky.png">
 <!---/p--->
