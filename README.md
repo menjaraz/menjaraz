@@ -1,4 +1,4 @@
-- #dlang #pari #J #delphi #golang #mql5 #typescript
+- #dlang #pari #J #delphi #golang #rustlang #mql5 #typescript
 
 <!---p align="center"--->
   <img src="https://projecteuler.net/profile/mavotroky.png">
