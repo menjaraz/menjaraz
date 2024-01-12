@@ -4,4 +4,3 @@
 
 [Rosseta Code contributor](https://rosettacode.org/wiki/Special:Contributions/Menjaraz)
 
-[My Exercism Profile](https://exercism.org/profiles/menjaraz)
